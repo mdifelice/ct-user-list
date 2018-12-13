@@ -1,0 +1,11 @@
+#ct-user-list-container.ct-user-list-loading a {
+	pointer-events: none;
+}
+
+#ct-user-list-container .ct-user-list-ordered-ascending::after {
+	content: " \002193";
+}
+
+#ct-user-list-container .ct-user-list-ordered-descending::after {
+	content: " \002191";
+}

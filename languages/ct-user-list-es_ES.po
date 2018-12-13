@@ -1,0 +1,28 @@
+# Domain: ct-user-list, Language: es
+# /ct-user-list.php:160
+msgid "Username"
+msgstr "Nombre de usuario"
+
+# /ct-user-list.php:167
+msgid "First Name"
+msgstr "Nombre de pila"
+
+# /ct-user-list.php:181
+msgid "Role"
+msgstr "Rol"
+
+# /ct-user-list.php:240
+msgid "Any role"
+msgstr "Cualquier rol"
+
+# /ct-user-list.php:283
+msgid "No users found"
+msgstr "No se encontraron usuarios"
+
+# /ct-user-list.php:284
+msgid "Previous page"
+msgstr "Página anterior"
+
+# /ct-user-list.php:285
+msgid "Next page"
+msgstr "Siguiente página"
