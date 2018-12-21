@@ -1,0 +1,58 @@
+# Copyright (C) 2018 Martín Di Felice
+# This file is distributed under the same license as the Codeable Test User List package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Codeable Test User List 1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ct-user-list\n"
+"POT-Creation-Date: 2018-12-21 14:20:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: ct-user-list.php:165
+msgid "Username"
+msgstr ""
+
+#: ct-user-list.php:172
+msgid "First Name"
+msgstr ""
+
+#: ct-user-list.php:186
+msgid "Role"
+msgstr ""
+
+#: ct-user-list.php:257
+msgid "No users found"
+msgstr ""
+
+#: ct-user-list.php:258
+msgid "Previous page"
+msgstr ""
+
+#: ct-user-list.php:259
+msgid "Next page"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Codeable Test User List"
+msgstr ""
+
+#: ct-user-list.php:296
+msgid "Any role"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Allows to print a list of users"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Martín Di Felice"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/mdifelice"
+msgstr ""

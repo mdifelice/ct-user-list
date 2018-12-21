@@ -1,0 +1,9 @@
+{
+  "name": "ct-user-list",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-wp-i18n": "^1.0.2"
+  }
+}
